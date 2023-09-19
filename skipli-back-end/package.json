@@ -1,0 +1,24 @@
+{
+  "name": "skipli-back-end",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "firebase": "^10.4.0",
+    "firebase-admin": "^11.10.1",
+    "firestore": "^1.1.6",
+    "node-popup": "^0.1.14",
+    "prompts": "^2.4.2",
+    "twilio": "^4.17.0"
+  }
+}
